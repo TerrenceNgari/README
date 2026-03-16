@@ -1,0 +1,21 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "Short one-line summary of what this repository does.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerrenceNgari/README.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TerrenceNgari/README/issues"
+  },
+  "homepage": "https://github.com/TerrenceNgari/README#readme"
+}
